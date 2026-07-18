@@ -1,5 +1,14 @@
-*.exe
-*.out
-*.o
-*.xcuserstate
+# macOS
 .DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+
+# Build
+build/
+DerivedData/
+
+# C/C++
+*.o
+*.out
