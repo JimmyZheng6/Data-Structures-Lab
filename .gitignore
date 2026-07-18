@@ -1,0 +1,5 @@
+*.exe
+*.out
+*.o
+*.xcuserstate
+.DS_Store
