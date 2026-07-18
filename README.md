@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains C/C++ implementations of classic data structures developed for the Data Structures course at Huazhong University of Science and Technology (HUST).
+This repository contains C/C++ implementations of classic data structures developed for the Data Structure Experiments course at Huazhong University of Science and Technology (HUST).
 
 The project covers fundamental data structures and algorithms, including sequential lists, linked lists, binary trees, and graphs, with corresponding laboratory documentation.
 
